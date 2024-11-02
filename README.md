@@ -41,6 +41,6 @@ yarn run dev
 
 ## Deployed & Verified contracts on AIA Network -
 
-- DAOManager.sol: [0x...](#)
-- GovernanceToken.sol: [0x5b557646d48dd82ada07f9b01ced495fe47aac549c7fb8e879597311c5546866](https://testnet.aiascan.com/tx/0x5b557646d48dd82ada07f9b01ced495fe47aac549c7fb8e879597311c5546866)
-- CreateGovernanceToken.sol: [0x...](#)
+- DAOManager.sol: [0x8e8Ab15416591bBED18D1f6d0F843eD2ef2cbC8c](#)
+- GovernanceToken.sol: [0xE4da8fE321d0318353e44669a9e23f9cD5E373b0](#)
+- CreateGovernanceToken.sol: [0x0d94c3b876D80734806301e06fd7fa754FE3BEa8](#)
